@@ -1,0 +1,290 @@
+.mainhead{
+    height: 120px;
+    width: 100%;
+    background-color: blue;
+    position: fixed;
+}
+body{
+    margin: 0;
+}
+.logopart{
+    margin-left: 20px;
+    float: left;
+    
+}
+.logo{
+    margin-top: 20px;
+}
+.table1{
+    float: left;
+    margin-top: 50px;
+    margin-left: 30px;
+    color: #fff;
+    font-weight: 800;
+    font-size: 18px;
+    font-family: PepsiOwners, Helvetica Neue, Helvetica, Arial, sans-serif;
+    cursor: pointer;
+}
+.dropdown{
+    float: left;
+    background-color:blue;
+    color: #fff;
+    font-weight: 200;
+    border: 0px;
+    margin-right: 20px;
+}
+.buyoption{
+    float: left;
+     margin-left: 1250px;
+     margin-top: -40px;
+     background: transparent;
+     border-radius: 40px;
+    height: 75vw;
+    cursor: pointer;
+}
+.button2{
+    background: transparent;
+    border-radius: 40px;
+    font-size: 17px;
+    height: 30px;
+    color: white;
+    width: 260px;
+    height: 50px;
+    border-color: #fff;
+    border: 3px solid;
+    font-weight: bolder;
+    padding: 10px;
+    cursor: pointer;
+}
+.button2:hover{
+    color: blue;
+    background-color: #fff;
+}
+.vidfirst{
+    width: 100%;
+    height: 947px;
+}
+.cherry{
+    height: 800px;
+    width: 100%;
+    float: left;
+}
+
+.button1{
+    width: 29.492vw;
+    height: 7.520vw;
+    font-size: 3.418vw;
+    margin-left: 20px;
+    margin-top: 13px;
+    font-weight: 900;
+    border: 0;
+    cursor: pointer;
+}
+.buttontext{
+    height: 200px;
+    width: 200px;
+    margin-top: -220px;
+    margin-left: 550px;
+    
+}
+.button1:hover{
+    background-color: blue;
+    color: #fff;
+}
+.section3{
+    height: 900px;
+}
+.middlemain{
+    margin-top: -25px;
+    
+    z-index: 10;
+}
+.textmiddle{
+    margin-left: 100px;
+    margin-top: -940px;
+}
+
+.middle1pic{
+    width: 700px;
+    margin-left: 50px;
+    z-index: 30;
+}
+.middle2pic{
+    width: 700px;
+    margin-left: 50px;
+    z-index: 30;
+}
+.middletext1{
+    width: 150px;
+    height: 50px;
+    background-color: #fff;
+    color: blue;
+    font-size: larger;
+    z-index: 35;
+}
+.button3{
+    width: 31.641vw;
+    height: 5.371vw;
+    margin-top: 35px;
+    margin-left: 140px;
+    font-weight: 900;
+    font-size: 2.832vw;
+}
+.button3:hover{
+    cursor: pointer;
+    background-color: blue;
+    color: #fff;
+}
+.button4{
+    width: 31.641vw;
+    height: 5.371vw;
+    margin-top: -15px;
+    margin-left: 880px;
+    font-weight: 900;
+    font-size: 2.832vw;
+    float: left;
+    z-index: 40;
+    position: relative;
+}
+.button4:hover{
+    cursor: pointer;
+    background-color: blue;
+    color: #fff;
+}
+.promo{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+}
+h2{
+    color: blue;
+    font-size: 55px;
+    font-weight: 900;
+    font-family: PepsiOwners, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-top: -4px;
+    margin-left: 260px;
+}
+.promopictures{
+ border: 2px solid;
+ border-color: blue;
+ margin-top: -310px;
+ margin-left: 75px;
+ height: 250px;
+ margin-right: 75px;
+ margin-bottom: 55px;
+}
+
+.bottompic1{
+    float: left;
+    cursor: pointer;
+    height: 250px;
+    width: 16.6666667%;
+}
+.bottompic2{
+    float: left;
+    cursor: pointer;
+    height: 250px;
+    width:  16.6666667%;
+}
+.bottompic3{
+    float: left;
+    cursor: pointer;
+    height: 250px;
+    width: 16.6666667%;
+}
+.bottompic4{
+    float: left;
+    cursor: pointer;
+    height: 250px;
+    width:  16.6666667%;
+}
+.bottompic5{
+    float: left;
+    cursor: pointer;
+    height: 250px;
+    width:  16.6666667%;
+}
+.bottompic6{
+    float: left;
+    cursor: pointer;
+    height: 250px;
+    width:  16.6666667%;
+}
+.foot{
+ height: 350px;
+ background-color: blue;
+ border-top: 10px;
+}
+.logobottom{
+    margin-top: 57px;
+    margin-left: 25px;
+}
+.bottomlogo{
+    margin-top: 100px;
+}
+.tabletext1{
+    margin-top: -180px;
+    margin-left: 300px;
+}
+li{
+    color: #fff;
+    font-weight: 800;
+    font-size: 15px;
+    font-family: PepsiOwners, Helvetica Neue, Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    float: left; 
+    
+    padding: 14px;
+}
+ul{
+    display: grid;
+    list-style-type: none;
+}
+.tabletext2{
+    margin-top: -170px;
+    margin-left: 550px;
+}
+.tabletext3{
+    margin-top: -160px;
+    margin-left: 780px;
+}
+.icons{
+    float: left;
+    margin-top: -110px;
+    margin-left: 1100px;
+}
+.instapic{
+    float: left;
+    margin-top: 190px;
+    margin-left: -225px;
+}
+.fbpic{
+    float: left;
+    margin-top: 190px;
+    margin-left: -225px;
+}
+
+.ytpic{
+    float: left;
+    margin-top: 190px;
+    margin-left: -225px;
+
+}
+.tiktokpic{
+    float: left;
+    margin-top: 190px;
+    margin-left: -225px;
+
+}
+.xpic{
+    float: left;
+    margin-top: 190px;
+    margin-left: -225px;
+
+}
+.threadspic{
+    float: left;
+    margin-top: 190px;
+    margin-left: -225px;
+
+}
